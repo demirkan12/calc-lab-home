@@ -28,9 +28,9 @@ typedef struct {
     int failed;
 } Parser;
 
-static const char *first_name = "firstname";
-static const char *last_name = "lastname";
-static const char *student_id = "studentid";
+static const char *first_name = "demirkan";
+static const char *last_name = "aktosun";
+static const char *student_id = "241ADB124";
 
 static void fail_at(Parser *p, size_t pos)
 {
